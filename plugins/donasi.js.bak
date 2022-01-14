@@ -1,6 +1,5 @@
 let handler = async m => m.reply(`
-[->GOPAY: 628884357769
-[->DANA: 628884357769
+👽 Owner is rich, he doesn't need your money.
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donate']
 handler.tags = ['info']
